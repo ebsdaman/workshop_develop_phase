@@ -1,0 +1,141 @@
+<!doctype html>
+	<html>
+    <head>
+    	<meta charset="utf-8">
+
+    	<title>Home Page</title>
+		
+        <?php include 'includes/styles.php';?>
+        <?php include 'includes/js.php';?>
+	</head>
+	<body>
+		<div id="layout">
+    		<?php include 'includes/menu.php';?>
+    	<div id="main">
+        	<div class="header pure-u-1">
+            	<h1>Save the Fucking Manattee</h1>
+                <h3>JUST Do it!</h3>
+                <form class="pure-form">
+                	 <input type="email" placeholder="Email Address">
+                     <button type="submit" class="pure-button pure-button-primary">Join Us</button>
+                </form>
+        	</div>
+        	<div class="pure-g">
+        		<div class="pure-u-1 pure-u-md-1-3">
+            		<h1>Our Mission</h1>
+                	<p>Our mission is to protect endangered manatees and their aquatic habitat for future generations.</p>
+                </div>
+        		<div class="pure-u-1 pure-u-md-1-3">
+                	<h1>Our Objective</h1>
+                	<p>Our objective is the recovery and protection of manatees and their aquatic ecosystems throughout the world.</p>
+                </div>
+        		<div class="pure-u-1 pure-u-md-1-3">
+                	<h1>Our Goals</h1>
+                	<p>In order to recover the manatee population – or delist the species – our goals are:
+To protect ample healthy habitat to support a stable or growing manatee population
+To reduce manatee harassment, injuries and deaths from human activity
+To ensure that sufficient regulations have been adopted to accomplish these goals.</p>
+            	</div>
+        	</div>
+            <div class="pure-g">
+                <div class="pure-u-1-3">
+                    <img src="https://farm4.staticflickr.com/3745/14131037797_b9ab67294a_b.jpg" class="pure-img" alt="Manatee Make Out Session">
+                </div>
+                <div class="pure-u-1-3">
+                    <img src="https://farm6.staticflickr.com/5509/11811363355_5f114c34fb_b.jpg" class="pure-img" alt="Florida manatee">
+                </div>
+                <div class="pure-u-1-3">
+                    <img src="https://farm9.staticflickr.com/8513/8433149455_5dd5351303_b.jpg" class="pure-img" alt="IMG_0789">
+                </div>
+            </div>
+          <div class="pure-g">
+              <div class="pure-u-md-1-2 pure-u-1">
+                  <img src="https://farm9.staticflickr.com/8530/8606335105_0930ff5e5c_b.jpg" class="pure-img" alt="Manatee Manners Observed">
+              </div>
+              <div class="pure-u-md-1-2 pure-u-1 content">
+                  <h3>Two New Manatees Added To Adoption Program</h3>
+                  <p>In January, Save the Manatee Club (SMC) added two new manatees to the Adopt-A-Manatee program. The most recent adoptees are named Electra and Gator. Electra is a resident at the Ellie Schiller Homosassa Springs Wildlife State Park in Homosassa, Florida, and Gator is a winter visitor at Blue Spring State Park in Orange City, Florida. Electra was rescued in 1998 near Titusville on Florida’s Atlantic coast. She had suffered trauma because of a boat strike and had scar tissue on both flippers due to entanglement in a crab trap</p>
+                  <button type="submit" class="pure-button pure-button-primary">Learn More</button>
+              </div>
+          </div>
+          <div class="pure-g">
+              <div class="pure-u-md-1-2 pure-u-1 content">
+                  <h3>New Medal Unveiled For 2016 Save the Manatee 5K Race</h3>
+                  <p>A newly-designed medal was recently unveiled for the 13th Annual Save the Manatee 5K Run, 2 Mile Walk and Mini-Manatee-Mile. The 3-inch medal is silver and blue featuring a manatee in an aquatic setting and will be given to all race participants. The race will take place on May 21, 2016, at the Huron-Clinton Metropark in Harrison Township, Michigan with a picturesque view of Lake St. Clair. In addition, a Virtual 5K is open to participants from around the world...</p>
+                  <button type="submit" class="pure-button pure-button-primary">Learn More</button>
+              </div>
+              <div class="pure-u-md-1-2 pure-u-1">
+                  <img src="https://farm2.staticflickr.com/1594/24962043786_86e66ba1b4_k.jpg" class="pure-img" alt="">
+              </div>
+          </div>
+          <div class="pure-u-1 content">
+              <h2>Our Opposition to Manatee Downlisting</h2>
+              <p>Recently, the U.S. Fish and Wildlife Service (FWS) proposed to reclassify the West Indian manatee from endangered to threatened under the federal Endangered Species Act. Save the Manatee Club does not believe it is appropriate to reclassify manatees at this time. It is completely unclear why FWS feels justified in downlisting the entire species since the agency's own 12-month finding cites that "population trends are declining or unknown in 84 percent of the countries where manatees are found." The FWS should not move forward with downlisting Florida manatees without a proven, viable plan for further reducing mortality and preserving vital warm water habitat and establishing recovery benchmarks in an updated Recovery Plan.</p> 
+<p>
+The FWS decision for Florida is largely based on a computer model that does not include two recent, massive die-offs of hundreds of manatees. The manatee population suffered catastrophic losses from prolonged cold snaps and toxic red tide blooms from 2010 through 2013. The computer model also does not deal with loss of habitat due to waterfront development. In addition, there is no long-term plan for the anticipated loss of artificial winter warm water habitat on which more than 60% of the Florida mantee population depends.</p>
+<p>
+Read a summary outlining reasons why the FWS proposal to downlist manatees is premature.</p>
+<p>
+Click the following link to read Save the Manatee Club's official comments to the U.S. Fish and Wildlife Service from Dr. Katie Tripp, Save the Manatee Club Director of Science and Conservation. 
+Date: September 1, 2014 </p>
+<p>
+You can also read opinion editorials on this topic below and sign up for our action alerts. We'll be engaging our Action Team members as updates are available and your support is needed.</p>
+          </div>
+        </div>
+
+<div class="container">
+  <br>
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+         <img src="https://farm4.staticflickr.com/3757/12017610946_f04fea2eef_b.jpg" alt="Day 18">
+      </div>
+
+      <div class="item">
+         <img src="https://farm8.staticflickr.com/7643/16984176245_7541bafcd9_b.jpg" alt="Taking A Breather">
+      </div>
+    
+      <div class="item">
+         <img src="https://farm2.staticflickr.com/1649/23713702254_b1a5d74505_b.jpg" alt="">
+      </div>
+
+      <div class="item">
+        <img src="https://farm1.staticflickr.com/469/19713223358_4b0c6e08cb_b.jpg" alt="Muck It Up All You Want, Mama">
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+  <div class="pure-u-1 social_media_wrapper">
+  		<img src="./img/social.png" alt="Facebook" class="social_media">
+        <img src="./img/social-1.png" alt="Instagram" class="social_media">
+        <img src="./img/social-2.png" alt="Twitter" class="social_media">
+        <img src="./img/social-3.png" alt="GooglePlus" class="social_media">
+        <img src="./img/video.png" alt="Youtube" class="social_media">
+        <img src="./img/circle.png" alt="Pintrest" class="social_media">
+  </div>
+</div>
+<footer>This is a class Project for 4101</footer>
+</div>
+
+<script src="js/ui.js"></script>
+
+</body>
+</html>
